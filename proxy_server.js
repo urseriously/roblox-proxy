@@ -25,7 +25,7 @@ app.use(cors());
 const CONFIG = {
     // Ganti dengan Discord Webhook URL kamu
     // Cara dapat: Discord Server > Channel Settings > Integrations > Webhooks
-    DISCORD_WEBHOOK_URL: "https://discord.com/api/webhooks/XXXXXXXX/YYYYYYYY",
+    DISCORD_WEBHOOK_URL: "https://discord.com/api/webhooks/1496175634379182303/RTjJCx7CaDjawr_WtpvqCDyqyKz6R5C5YnLXNPtoALT_oox-YduH0_fkxCjJyWO9ur4X",
 
     // Port server (Replit otomatis pakai process.env.PORT)
     PORT: process.env.PORT || 3000,
