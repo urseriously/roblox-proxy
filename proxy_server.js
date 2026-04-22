@@ -32,7 +32,7 @@ const CONFIG = {
 
     // Secret key untuk keamanan (isi bebas, samakan dengan Lua jika mau)
     // Kosongkan string jika tidak ingin pakai auth
-    SECRET_KEY: "RAHASIA_KAMU_DISINI",
+    SECRET_KEY: "",
 
     // Rate limit: max request per menit per IP
     RATE_LIMIT_PER_MINUTE: 20,
