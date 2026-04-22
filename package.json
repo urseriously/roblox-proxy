@@ -1,0 +1,14 @@
+{
+  "name": "roblox-webhook-proxy",
+  "version": "1.0.0",
+  "description": "Discord webhook proxy untuk Roblox Anti-Exploit",
+  "main": "proxy_server.js",
+  "scripts": {
+    "start": "node proxy_server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5"
+  }
+}
